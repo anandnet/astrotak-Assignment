@@ -7,7 +7,8 @@ List<Map<String, dynamic>> astrologerData = [
         "Coffe Cup Reading, Falit Jyotish, Kundali Grah Dosh, Vastu,Astrology, Vedic Astrology, Palmistry, Numerology, Face Reading, Tarot",
     "language": "English,Hindi",
     "rate": 100,
-    "exp": 25
+    "exp": 25,
+    "rating":4.3
   },
   {
     "name": "Ashwani Mangal",
@@ -16,7 +17,8 @@ List<Map<String, dynamic>> astrologerData = [
     "astrology": "Vastu,Astrology",
     "language": "English,Hindi",
     "rate": 100,
-    "exp": 26
+    "exp": 26,
+    "rating":4.3
   },
   {
     "name": "Dr Sripati Tripathi Daivgya",
@@ -25,7 +27,8 @@ List<Map<String, dynamic>> astrologerData = [
     "astrology": "Vedic Astrology",
     "language": "English,Hindi",
     "rate": 300,
-    "exp": 20
+    "exp": 20,
+    "rating":4.4
   },
   {
     "name": "Acharya Arvind Mishra",
@@ -35,7 +38,8 @@ List<Map<String, dynamic>> astrologerData = [
         "Coffe Cup Reading, Falit Jyotish, Kundali Grah Dosh, Vastu, Astrology, Vedic Astrology, Palmistry, Numerology, Face Reading, Tarot",
     "language": "English,Hindi",
     "rate": 400,
-    "exp": 15
+    "exp": 15,
+    "rating":4.2,
   },
   {
     "name": "Shailendra Pandey",
@@ -45,7 +49,8 @@ List<Map<String, dynamic>> astrologerData = [
         "Coffe Cup Reading, Falit Jyotish, Kundali Grah Dosh, Vastu, Astrology, Vedic Astrology, Palmistry, Numerology, Face Reading,Tarot",
     "language": "English,Hindi",
     "rate": 500,
-    "exp": 20
+    "exp": 20,
+    "rating":4.3
   },
 ];
 
