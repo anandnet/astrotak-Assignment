@@ -71,7 +71,7 @@ class HomeScreen extends StatelessWidget {
         const SizedBox(height: 10),
         const CustomerReview(),
         const SizedBox(height: 30),
-        const Center(child: Text("© Copyright 2021 ALl Right Reserved",style: TextStyle(fontSize: 10,color: Colors.grey))),
+        const Center(child: Text("© Copyright 2021 All Right Reserved",style: TextStyle(fontSize: 10,color: Colors.grey))),
         const SizedBox(height: 30),
       ],
     );
